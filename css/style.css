@@ -1,0 +1,37 @@
+h1, h2{
+    background-color: deeppink;
+    padding: 5px;
+}
+div{
+    background-color: deepskyblue;
+    height: 50px;
+    width: 50px;
+    margin-bottom: 10px;
+    position: relative;
+}
+.div2{
+    background-color: deepskyblue;
+    height: 50px;
+    width: 50px;
+    margin-bottom: 10px;
+}
+.div3{
+    background-color: pink;
+    height: 50px;
+    width: 50px;
+    margin-bottom: 10px;
+}
+.div4{
+    background-color: cadetblue;
+    height: 50px;
+    width: 50px;
+    margin-bottom: 10px;
+}
+button{
+    background-color: dimgrey;
+    color: white;
+    height: 40px;
+}
+.bgNouveau{
+    background-color: indianred;
+}
